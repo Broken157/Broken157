@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broken157&layout=compact&theme=tokyonight)
 
 ## Principais Projetos
-- [Projeto A](https://github.com/Broken157/projeto-a) — descrição curta do que faz
+- [Projetoa Escolares](https://github.com/Broken157/Projetos-Escolares) — descrição curta do que faz
 - [Projeto B](https://github.com/Broken157/projeto-b) — descreva stack e objetivo
 
 ## Como posso ajudar?

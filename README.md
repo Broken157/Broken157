@@ -5,7 +5,7 @@
 ## Sobre mim
 - 🔭 Atualmente estudando em: IFSP SMP - INSTITUTO FEDERAL SÃO MIGUEL PAULISTA
 - 🌱 Estou aprendendo: php, javaScript e Swift
-- 📫 Como me encontrar: email@exemplo.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [Twitter/GitHub](https://github.com/Broken157)
+- 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [Twitter/GitHub](https://github.com/Broken157)
 
 ## Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

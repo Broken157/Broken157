@@ -4,14 +4,16 @@
 
 ## Sobre mim
 - 🔭 Atualmente estudando em: IFSP SMP - INSTITUTO FEDERAL SÃO MIGUEL PAULISTA
-- 🌱 Estou aprendendo: php, javaScript e Swift
+- 🌱 Estou aprendendo: php, javaScript, Swift e python
 - 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [Twitter/GitHub](https://github.com/Broken157)
 
 ## Tecnologias & Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Estatísticas
 ![Broken157's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken157&show_icons=true&theme=tokyonight)

@@ -4,7 +4,6 @@
 
 ## Sobre mim
 - 🔭 Atualmente estudando em: IFSP SMP - INSTITUTO FEDERAL SÃO MIGUEL PAULISTA
-- 🌱 Estou aprendendo: php, javaScript, Swift e python
 - 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [Twitter/GitHub](https://github.com/Broken157)
 
 ## Tecnologias & Ferramentas
@@ -25,12 +24,3 @@
 ## Como posso ajudar?
 - Disponível para colaborações em open source
 - Aceito convites para projetos freelance/contratação — envie um e-mail
-
----
-
-Se quiser, eu posso:
-- Gerar badges personalizados (por linguagem, ferramentas)
-- Criar cards automáticos de projeto
-- Adicionar workflow para atualizar algo automaticamente (ex.: atualizar data, badges)
-
-Última atualização:

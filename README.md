@@ -4,7 +4,7 @@
 
 ## Sobre mim
 - 🔭 Atualmente estudando em: IFSP SMP - INSTITUTO FEDERAL SÃO MIGUEL PAULISTA
-- 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [Twitter/GitHub](https://github.com/Broken157)
+- 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [GitHub](https://github.com/Broken157)
 
 ## Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broken157&layout=compact&theme=tokyonight)
 
 ## Principais Projetos
-- [Projetoa Escolares](https://github.com/Broken157/Projetos-Escolares) — Local com Projetos feitos durante a escola
+- [Projetos Escolares](https://github.com/Broken157/Projetos-Escolares) — Local com Projetos feitos durante a escola
 
 ## Como posso ajudar?
 - Disponível para colaborações em open source

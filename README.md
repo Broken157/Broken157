@@ -1,7 +1,5 @@
 # 👋 Olá! Eu sou o Diogo Mascarenhas
 
-
-
 ## Sobre mim
 - 🔭 Atualmente estudando em: IFSP SMP - INSTITUTO FEDERAL SÃO MIGUEL PAULISTA
 - 📫 Como me encontrar: mascarenhasde9@gmail.com · [LinkedIn](https://www.linkedin.com/in/diogo-mascarenhas-33628b2b6/) · [GitHub](https://github.com/Broken157)
@@ -15,8 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Estatísticas
-![Broken157's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken157&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broken157&layout=compact&theme=tokyonight)
+![Broken157's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broken157&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broken157&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## Principais Projetos
 - [Projetos Escolares](https://github.com/Broken157/Projetos-Escolares) — Local com Projetos feitos durante a escola
